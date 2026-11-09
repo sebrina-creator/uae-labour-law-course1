@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mastering The UAE Labour Law</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="course.css">
+</head>
+<body>
+
+<!-- Title screen: full bleed, no player chrome -->
+<section id="title-screen" class="title-screen" hidden></section>
+
+<!-- Player chrome around every other page -->
+<div id="player" class="player" hidden>
+  <header class="top">
+    <div class="tip-wrap">
+      <button class="burger" data-action="menu-open" aria-label="Open course menu" aria-controls="menu">
+        <span></span><span></span><span></span>
+      </button>
+      <span class="tip tip-below">Menu</span>
+    </div>
+    <h1 id="page-title" class="page-title serif"></h1>
+    <div class="brand" aria-hidden="true">
+      <span id="brand-text" class="brand-text serif"></span>
+      <img class="brand-icon" src="assets/icons/scales.svg" alt="">
+    </div>
+  </header>
+
+  <main id="stage" class="stage"></main>
+  <div id="caption" class="caption" role="status" aria-live="polite" hidden></div>
+
+  <footer id="bar" class="bar"></footer>
+
+  <div class="scrim" data-action="menu-close"></div>
+  <aside id="menu" class="menu" aria-label="Course menu"></aside>
+</div>
+
+<script src="course-content.js"></script>
+<script src="assets/video/captions.js"></script>
+<script src="course.js"></script>
+</body>
+</html>

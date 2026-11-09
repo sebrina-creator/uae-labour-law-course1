@@ -1,0 +1,38 @@
+1
+00:00:05,000 --> 00:00:09,400
+Roshan has checked the employee handbook
+while you look through Lina's file.
+
+2
+00:00:09,400 --> 00:00:13,239
+There is no absence report submitted and
+no documented investigation.
+
+3
+00:00:13,800 --> 00:00:17,208
+However, Roshan has found something in the
+handbook.
+
+4
+00:00:18,250 --> 00:00:18,281
+However, Roshan has found something in the
+handbook.
+
+5
+00:00:18,281 --> 00:00:24,121
+It says that five consecutive days of
+unauthorised absence result in automatic termination.
+
+6
+00:00:24,500 --> 00:00:26,166
+Look, it’s right here!
+
+7
+00:00:26,541 --> 00:00:31,250
+All employees are required to read and
+sign this. Isn’t that enough to cover ourselves?
+
+8
+00:00:31,500 --> 00:00:32,791
+What do you think?
+
